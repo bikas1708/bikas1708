@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bikash Singha
-- 👀 I’m interested in Data science and Data engineering
-- 🌱 I’m currently learning Data engineering
+- 👀 Currently working as a software Engineer in FIS for Backend Development of Core Banking Application using MUMPS/Intersystem ObjectScript.
+- 🌱 In pursuit of more knowledge to grow and implement on the way, I'm expanding my field towards data an learning as I go along the journey. :D 
 
 
 
