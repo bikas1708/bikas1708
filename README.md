@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Bikash Singha
-- 👀 Currently working as a software Engineer in FIS for Backend Development of Core Banking Application using MUMPS/Intersystem ObjectScript.
-- 🌱 In pursuit of more knowledge to grow and implement on the way, I'm expanding my field towards data and learning as I go along the journey. :D 
+- 👀 Currently working as a software Engineer in FIS for Backend Development of Core Banking Applications, I write/maintain legacy code along with upgrading it to new standards.
+- Looking out for new opportunities.
+
 
 
 
